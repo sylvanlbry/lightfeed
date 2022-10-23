@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/sylvan/Documents/code/twilio/lightfeed",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Sylvan St. Clair",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "sylvan.lib@pm.me",
+  "friendly_name": "Lightfeed",
+  "github_user": "sylvanlbry",
+  "license": "MIT",
+  "package_name": "lightfeed",
+  "project_name": "lightfeed",
+  "version": "0.0.0"
+}
